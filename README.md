@@ -30,8 +30,16 @@ adding "play on different level" function, saving current level
 
 tips: if you don't want to start the game from beginning, just need to delete the main character and use right click to start everywhere you want to.
 
-5, 
-- full gameplay
-[![youtube](https://img.shields.io/badge/video-Bilibili-red)](https://youtu.be/LUYr-PteY20)
+5,
+demo
+-
+
+https://github.com/user-attachments/assets/4a67bf0a-0851-4e1a-8d70-8e649c496d9f
+
+
+6, 
+- full gameplay(click the botton)
+  
+[![youtube](https://img.shields.io/badge/video-youtube-red)](https://youtu.be/LUYr-PteY20)
 
 
