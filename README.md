@@ -36,5 +36,8 @@ video example
 
 
 https://github.com/user-attachments/assets/4f7dd953-73d6-4730-b357-1979ff6610db
+6.
+- full gameplay
+[![youtube](https://img.shields.io/badge/video-Bilibili-red)](https://youtu.be/LUYr-PteY20)
 
 
